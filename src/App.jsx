@@ -12,7 +12,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <video preload="auto" src="https://mm-chat-history-bucket.s3.amazonaws.com/Addition_and_subtraction_problems.mp4" style="width: 100%; height: 100%;"></video>
+      <video preload="auto" src="https://mm-chat-history-bucket.s3.amazonaws.com/Addition_and_subtraction_problems.mp4"></video>
     </>
   )
 }
